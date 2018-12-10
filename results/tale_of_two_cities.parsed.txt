@@ -1,0 +1,8 @@
+(S1 (S (VP (VBN Produced) (PP (IN by) (NP (NNP Judith) (NNP Boss))))))
+(S1 (NP (NP (DT A) (NN TALE)) (PP (IN OF) (NP (CD TWO) (NNS CITIES)))))
+(S1 (NP (NP (DT A) (NN STORY)) (PP (IN OF) (NP (DT THE) (JJ FRENCH) (NN REVOLUTION)))))
+(S1 (PP (IN By) (NP (NNP Charles) (NNP Dickens))))
+(S1 (NP (NNS CONTENTS)))
+(S1 (NP (NP (NNP Book)) (NP (NP (DT the) (NNP First--Recalled)) (PP (TO to) (NP (NNP Life))))))
+(S1 (X (NP (NNP Chapter)) (NP (PRP I)) (NP (DT The) (NN Period)) (NP (NNP Chapter) (NNP II) (NNP The) (NNP Mail) (NNP Chapter) (NNP III) (NNP The) (NNP Night) (NNS Shadows)) (NP (NP (NNP Chapter) (NNP IV)) (NP (DT The) (NNP Preparation) (NNP Chapter) (NNP V) (NNP The) (NNP Wine-shop) (NNP Chapter) (NNP VI) (NNP The) (NN Shoemaker)))))
+(S1 (S (VP (NN Book) (NP (DT the) (NNP Second--the) (NNP Golden) (NN Thread)))))

@@ -1,0 +1,8 @@
+(S1 (S (VP (VBN Produced) (PP (IN by) (NP (NP (NNP Col) (NNP Choat)) (, ,) (CC and) (NP (NNP David) (NNP Widger))))) (. .)))
+(S1 (NP (VB cover)))
+(S1 (NP (NNPS Ulysses)))
+(S1 (PP (IN by) (NP (NNP James) (NNP Joyce))))
+(S1 (NP (NNS Contents)))
+(S1 (SQ (VBZ —) (NP (PRP I)) (NP (PRP —))))
+(S1 (S (NP (QP (RB -LSB-) (CD 1)) (JJ -RSB-) (JJ -LSB-) (CD 2) (NN -RSB-)) (VP (VBD -LSB-) (NP (CD 3) (NN -RSB-)))))
+(S1 (NP (NNP —) (NNP II) (NNS —)))
